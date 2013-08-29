@@ -1,1 +1,2 @@
-Please go to http://perfspy.blogspot.com/.
+Please go to http://perfspy.blogspot.com/:
+[http://perfspy.blogspot.com/2013/08/perfspy-1-what-is-this-tool-for.html]PerfSpy 1 -- runtime logging and performance monitoring using AspectJ 
